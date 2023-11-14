@@ -6,5 +6,5 @@ sleep 1
 set +x
 
 echo 'Now...'
-echo 'Visit http://locahost/to see your PHP application in action.'
+echo 'Visit http://locahost/ to see your PHP application in action.'
 
